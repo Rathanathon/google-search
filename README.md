@@ -33,6 +33,8 @@ google-search homepage HTML &amp;Css
      <meta name="geo.placename" content="Phnom Penh">
      <meta name="geo.region" content="KH">
        <title>Rathana phone Shop1 in  Phnom Penh </title>
+  </head>
+<boby>
             <!-- Favicon -->
         <link rel="icon" href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
            <!-- Google font -->
@@ -41,6 +43,26 @@ google-search homepage HTML &amp;Css
         <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/css/bootstrap.min.css">
            <!-- Custom minified CSS -->
         <link rel="stylesheet" href="eventEditData: {
+        <link rel="stylesheet" href="https://httpsrathanaphon.web="stylesheet">      href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+           <!-- FontAwesome -->
+        <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/fonts/css/all.min.css">
+           <!-- Fancybox API -->
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css"/>
+           <!-- slick-->
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/slick/slick.css"> 
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/slick/slick-theme.css"> 
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/common/css/custom-toast.css">
+        	 <!-- Bootstrap CSS -->
+		   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css?v=2392819 integrity=" crossorigin="anonymous">
+     
+        
+
+
+         
+  
+        
+
+
 
 
 

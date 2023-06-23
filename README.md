@@ -6,7 +6,7 @@ google-search homepage HTML &amp;Css
   <head></head>
       <head></head>
       <meta charset="utf-8"
-       <script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"1e7946724e",applicationID:"31671751"
+       <script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"1e7946724e",applicationID:"31671751">
          ;;(()=>{var e,t,r={9071:(e,t,r)=>{"use strict";r.d(t,{I:()=>n});var
      <meta name="google-site-verification" content=id"6o3mfq88FPLGRnIKr5-LYJCU0HEBlaS37S48w34IWe0"/>
      <meta name="document-type" c
@@ -15,7 +15,7 @@ google-search homepage HTML &amp;Css
      <meta name="googlebot" content="index, follo">
      <meta name="mobile-web-app-capablecontent="yes">
      <meta name="apple-mobile-web-app-capable" content="yes">
-         <link rel="apple-touch-icon" href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=528721588"/>
+    <link rel="apple-touch-icon" href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=528721588"/>
      <meta name="theme-color" content="#FFFFFFfv6'jn+:jnv'">
      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
      <meta name="title" content="Rathana phone Shop1 in  Phnom Penh">
@@ -32,28 +32,37 @@ google-search homepage HTML &amp;Css
      <meta name="geo.position" content map=id"19.076;72.8774">
      <meta name="geo.placename" content="Phnom Penh">
      <meta name="geo.region" content="KH">
-       <title>Rathana phone Shop1 in  Phnom Penh </title>
+       <title> Rathana phone Shop1 in  Phnom Penh </title>
   </head>
 <boby>
+    </div>
+         <a href="#">Home</a>
+         <a href="#">e.shop</a>
+         <a href="#">Phones</a>
+         <a href="#">Accessories</a>
+         <a href="#">Contact</a>
+    </nav>
+       <main>   
             <!-- Favicon -->
         <link rel="icon" href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
-           <!-- Google font -->
+            <!-- Google font -->
         <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto" onload="this.rel='stylesheet'">
-           <!-- BS4 minified v1.0.0 CSS -->
+            <!-- BS4 minified CSS -->
         <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/css/bootstrap.min.css">
-           <!-- Custom minified CSS -->
+            <!-- Custom minified CSS -->
         <link rel="stylesheet" href="eventEditData: {
-        <link rel="stylesheet" href="https://httpsrathanaphon.web="stylesheet">      href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
-           <!-- FontAwesome -->
+        <link rel="stylesheet" href="https://httpsrathanaphon.web="stylesheet">     
+        <link href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+            <!-- FontAwesome -->
         <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/fonts/css/all.min.css">
-           <!-- Fancybox API -->
+            <!-- Fancybox API -->
         <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css"/>
-           <!-- slick-->
+            <!-- slick-->
         <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/slick/slick.css"> 
         <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/slick/slick-theme.css"> 
         <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/common/css/custom-toast.css">
-        	 <!-- Bootstrap CSS -->
-		   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css?v=2392819 integrity=" crossorigin="anonymous">
+        	<!-- Bootstrap CSS -->
+	    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css?v=2392819 integrity=" crossorigin="anonymous">
      
         
 

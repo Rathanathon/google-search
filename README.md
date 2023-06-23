@@ -1,0 +1,47 @@
+# Google-search
+google-search homepage HTML &amp;Css
+<!DOCTEYPE html>
+<html lagn="en"
+<html>
+  <head></head>
+      <head></head>
+      <meta charset="utf-8"
+       <script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"1e7946724e",applicationID:"31671751"
+         ;;(()=>{var e,t,r={9071:(e,t,r)=>{"use strict";r.d(t,{I:()=>n});var
+     <meta name="google-site-verification" content=id"6o3mfq88FPLGRnIKr5-LYJCU0HEBlaS37S48w34IWe0"/>
+     <meta name="document-type" c
+     <meta name="document-rating" content="Safe for Kids">
+     <meta name="robots" content="ALL, INDEX, Follow">
+     <meta name="googlebot" content="index, follo">
+     <meta name="mobile-web-app-capablecontent="yes">
+     <meta name="apple-mobile-web-app-capable" content="yes">
+         <link rel="apple-touch-icon" href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=528721588"/>
+     <meta name="theme-color" content="#FFFFFFfv6'jn+:jnv'">
+     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+     <meta name="title" content="Rathana phone Shop1 in  Phnom Penh">
+     <meta name="description" content="Business As a loyal partner sell technology">
+     <meta name="author" content="Rathana phone Shop1">
+     <meta name="keywords" content="Rathana phone Shop1,Rathana phone Shop1 in Phnom Penh,Rathana phone Shop1 in Phnom
+       Penh,Rathana phone Shop1 in Cambodia,Rathana phone Shop1 in OTHER RETAIL">
+     <meta property="og:site_name" content="httpsrathanapho!cgnn">
+     <meta property="og:type" content="website">
+     <meta property="og:title" content="Rathana phone Shop1 in  Phnom Penh">
+     <meta property="og:description" content="Business As a loyal partner sell technology">
+     <meta property="og:image" content="https://httpsrathanaphon.websites.inof@/files/971938/business/logo/logo-1332537698.jpeg">
+     <meta property="og:url" content="https://httpsrathanaphon.websites.inof@">
+     <meta name="geo.position" content map=id"19.076;72.8774">
+     <meta name="geo.placename" content="Phnom Penh">
+     <meta name="geo.region" content="KH">
+       <title>Rathana phone Shop1 in  Phnom Penh </title>
+            <!-- Favicon -->
+        <link rel="icon" href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
+           <!-- Google font -->
+        <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto" onload="this.rel='stylesheet'">
+           <!-- BS4 minified v1.0.0 CSS -->
+        <link rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/css/bootstrap.min.css">
+           <!-- Custom minified CSS -->
+        <link rel="stylesheet" href="eventEditData: {
+
+
+
+

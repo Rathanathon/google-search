@@ -32,6 +32,9 @@ google-search homepage HTML &amp;Css
      <meta name="geo.position" content map=id"19.076;72.8774">
      <meta name="geo.placename" content="Phnom Penh">
      <meta name="geo.region" content="KH">
+     <link href="https://fonts.ooleapis.com/css?family=Roboto:400,700&displa"=swap" rel="stylesheet">  
+     <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font" -awesome.min.css">  
+     <link rel="stylesheet" href="css/custom.css"> 
        <title> Rathana phone Shop1 in  Phnom Penh </title>
   </head>
 <boby>

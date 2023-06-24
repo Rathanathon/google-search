@@ -62,7 +62,7 @@ google-search homepage HTML &amp;Css
         <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/e-shop/slick/slick-theme.css"> 
         <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.inof@/common/css/custom-toast.css">
         	<!-- Bootstrap CSS -->
-	    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css?v=2392819 integrity=" crossorigin="anonymous">
+	     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css?v=2392819 integrity=" crossorigin="anonymous">
      
         
 

@@ -1,5 +1,4 @@
-# Google-search
-google-search homepage HTML &amp;Css
+# google-search homepage html & Css
 <!DOCTEYPE html>
 <html lagn="en"
 <html>

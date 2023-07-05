@@ -5,6 +5,7 @@ google-search homepage HTML &amp;Css
 <html>
   <head></head>
       <head></head>
+     ( "hello would" )
       <meta charset="utf-8"
        <script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"1e7946724e",applicationID:"31671751">
          ;;(()=>{var e,t,r={9071:(e,t,r)=>{"use strict";r.d(t,{I:()=>n});var
@@ -13,8 +14,8 @@ google-search homepage HTML &amp;Css
      <meta name="document-rating" content="Safe for Kids">
      <meta name="robots" content="ALL, INDEX, Follow">
      <meta name="googlebot" content="index, follo">
-     <meta name="mobile-web-app-capablecontent="yes">
-     <meta name="apple-mobile-web-app-capable" content="yes">
+     <meta name="web-app-capablecontent="yes">
+     <meta name="mobile-web-app-capable" content="yes">
     <link rel="apple-touch-icon" href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=528721588"/>
      <meta name="theme-color" content="#FFFFFFfv6'jn+:jnv'">
      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
@@ -37,15 +38,7 @@ google-search homepage HTML &amp;Css
      <link rel="stylesheet" href="css/custom.css"> 
        <title> Rathana phone Shop1 in  Phnom Penh </title>
   </head>
-<boby>
-    </div>
-         <a href="#">Home</a>
-         <a href="#">e.shop</a>
-         <a href="#">Phones</a>
-         <a href="#">Accessories</a>
-         <a href="#">Contact</a>
-    </nav>
-       <main>   
+</boby>
             <!-- Favicon -->
         <link rel="icon" href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
             <!-- Google font -->

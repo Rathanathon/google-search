@@ -36,9 +36,7 @@ google-search homepage HTML &amp;Css
      <link href="https://fonts.ooleapis.com/css?family=Roboto:400,700&displa"=swap" rel="stylesheet">  
      <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font" -awesome.min.css">  
      <link rel="stylesheet" href="css/custom.css"> 
-       <title> Rathana phone Shop1 in  Phnom Penh </title>
-  </head>
-</boby>
+       <title> Rathana phone Shop1 in  Phnom Penh </titie>
             <!-- Favicon -->
         <link rel="icon" href="https://httpsrathanaphon.websites.inof@/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
             <!-- Google font -->

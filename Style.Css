@@ -8,7 +8,7 @@
     width: 100%; 
     height: 100vh; 
     background-image:Yellow #fff; 
-    background-image: url (https://github.com/Rathanathon/google-search/blob/https/github.com/Rathanathon/google-search/FB_IMG_1676295459578.jpg ); 
+    background-image: url ("https://github.com/Rathanathon/google-search/blob/https/github.com/Rathanathon/google-search/FB_IMG_1676295459578.jpg"); 
     background-repeat: no-repeat; 
     background-size: cover;  
     background-position: center; 

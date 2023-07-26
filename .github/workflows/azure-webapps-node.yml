@@ -19,7 +19,7 @@
 
 on:
   push:
-    branches: [ "https://httpsrathanathon.websites.inof@" ]
+    branches: ["master"]
   workflow_dispatch:
 
 env:

@@ -3,17 +3,17 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Attach to Chrome",
+            "name": "open wed app",
             "port": 9222,
             "request": "attach",
             "type": "chrome",
             "webRoot": "${workspacefolder}",
         },
         {
-            "name": "Attach to Chrome",
+            "name": "Open wed app",
             "port": 9222,
             "request": "attach",
-            "type": "chrome",
+            "type": "wed.app",
             "webRoot": "${workspaceFolder}"
         },
         
@@ -30,21 +30,21 @@
             "type": "extensionHost"
         },
         {
-            "name": "Attach to Chrome",
+            "name": "wed.app",
             "port": 9222,
             "request": "attach",
-            "type": "chrome",
+            "type": "wed app",
             "webRoot": "${workspaceFolder}"
         },
         {
-            "name": "Attach to Chrome",
+            "name": "Open wed.app",
             "port": 9222,
             "request": "attach",
-            "type": "chrome",
+            "type": "wed.app",
             "webRoot": "${workspaceFolder}"
         },
         {
-            "type": "chrome",
+            "type": "wed.app",
             "request": "launch",
             "name": "Open index.html",
             "file": "/workspaces/Google-search/index.html"
